@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation
 
-This repository presents a comparative analysis of deep learning architectures for brain tumor segmentation using MRI data, as detailed in the paper "Comparative Analysis of Deep Learning Architectures for Brain Tumor Segmentation" by Quang-Huyen Tran, Hieu M. D. Pham, Duy-Phuc Ho, and Hanh T. M. Tran from The University of Da Nang - University of Science and Technology, Vietnam. The study evaluates six UNet-based models—UNet, ResUNet, DeepResUNet, Dual-Gated Recurrent Unit (DRU), Stacked Recurrent Units (SRU), and DuckNet—to identify the optimal architecture for clinical neuro-oncological imaging.
+This repository presents a comparative analysis of deep learning architectures for brain tumor segmentation using MRI data, as detailed in the paper "Comparative Analysis of Deep Learning Architectures for Brain Tumor Segmentation" by Quang-Huyen Tran, Hieu M. D. Pham, Duy-Phuc Ho, and Hanh T. M. Tran from The University of Da Nang - University of Science and Technology, Vietnam. The study evaluates six UNet-based models—UNet, ResUNet, DeepResUNet, DRU, SRU, and DuckNet—to identify the optimal architecture for clinical neuro-oncological imaging.
 
 ## Dataset
 - Source: [Figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
