@@ -12,6 +12,9 @@ This repository presents a comparative analysis of deep learning architectures f
 ## Models
 - UNet, ResUNet, DeepResUNet, DRU, SRU, DuckNet.
 
+## Trained Models
+- Download pre-trained models: [Link](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+
 ## Results
 | Model         | Parameters | Train Dice | Train IoU  | Test Dice  | Test IoU   |
 |---------------|------------|------------|------------|------------|------------|
